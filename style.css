@@ -1,0 +1,41 @@
+body {
+  background-color: #fffafc;
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  color: #333333;
+}
+
+h1, h2 {
+  color: #b85c8c;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+ul {
+  border: 2px solid #d8a7c7;
+}
+
+ol {
+  border: 2px solid #7c5ca4;
+}
+
+ul, ol {
+  padding: 18px 35px;
+  border-radius: 20px;
+  background-color: #fff8fc;
+}
+
+strong {
+  color: #7c5ca4;
+}
+
+em {
+  color: #888888;
+}
+
+hr {
+  margin: 40px 0;
+}
